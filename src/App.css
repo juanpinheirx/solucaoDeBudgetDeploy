@@ -48,7 +48,7 @@
   font-size: xx-small;
 }
 
-@media (max-width: 1200px) {
+@media screen {
   #pecas {
     display: flow-root;
   }
