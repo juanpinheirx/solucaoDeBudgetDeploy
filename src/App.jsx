@@ -116,7 +116,7 @@ function App() {
           value='top'
         />
         <label htmlFor='top'>
-          <img src={'assets/37ccb816eebff5940d2e19f508882586.jpg'} alt='top' />
+          <img src={'src/assets/37ccb816eebff5940d2e19f508882586.jpg'} alt='top' />
         </label>
         <input
           onClick={(e) => setResult2(e.target.value)}
@@ -128,7 +128,7 @@ function App() {
         />
         <label htmlFor='cropped'>
           <img
-            src={'assets/71171b0efcd3b633c6698b943f76c8b7.jpg'}
+            src={'src/assets/71171b0efcd3b633c6698b943f76c8b7.jpg'}
             alt='cropped'
           />
         </label>
@@ -142,7 +142,7 @@ function App() {
         />
         <label htmlFor='vestido'>
           <img
-            src={'assets/cb7073e13a16498e96a1cc3a5486d8dd.jpg'}
+            src={'src/assets/cb7073e13a16498e96a1cc3a5486d8dd.jpg'}
             alt='vestido'
           />
         </label>
@@ -155,7 +155,7 @@ function App() {
           value='conjunto'
         />
         <label htmlFor='conjunto'>
-          <img src={'assets/fe2971a36b501e5fbffd284cfedbe51d.jpg'} alt='top' />
+          <img src={'src/assets/fe2971a36b501e5fbffd284cfedbe51d.jpg'} alt='top' />
         </label>
         <input
           onClick={(e) => setResult2(e.target.value)}
@@ -166,7 +166,7 @@ function App() {
           value='saia'
         />
         <label htmlFor='saia'>
-          <img src={'assets/26aee3bb069f1be8b97ca28563043cb4.jpg'} alt='saia' />
+          <img src={'src/assets/26aee3bb069f1be8b97ca28563043cb4.jpg'} alt='saia' />
         </label>
         <input
           onClick={(e) => setResult2(e.target.value)}
@@ -177,7 +177,7 @@ function App() {
           className='input-hidden'
         />
         <label htmlFor='blusa'>
-          <img src={'assets/7795ca1975133f720b3f5ecced2c4e2f.jpg'} alt='blusa' />
+          <img src={'src/assets/7795ca1975133f720b3f5ecced2c4e2f.jpg'} alt='blusa' />
         </label>
       </section>
       <hr id='line' />
