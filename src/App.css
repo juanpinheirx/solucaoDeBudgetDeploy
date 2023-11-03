@@ -43,6 +43,10 @@
   font-size: 70px;
   font-family: "brush-script-std", sans-serif;
 }
+#designed {
+  font-family: 'Open Sans', sans-serif;
+  font-size: xx-small;
+}
 
 @media (max-width: 1200px) {
   #pecas {

@@ -227,6 +227,7 @@ function App() {
           result3
         }} id='result'>R${result3},00</h5>
       </section>
+      <p id='designed'>designed by Juan Pinheiro</p>
     </>
   );
 }
